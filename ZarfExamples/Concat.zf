@@ -1,0 +1,3 @@
+let str = "variable"
+let anotherstr = "varrr"
+say "Hello " + "World!" + str + anotherstr
