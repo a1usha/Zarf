@@ -1,0 +1,89 @@
+# Clojure
+/target
+/classes
+/checkouts
+profiles.clj
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+/.prepl-port
+.hgignore
+.hg/
+
+# Eclipse Core      
+.project
+
+# JDT-specific (Eclipse Java Development Tools)     
+.classpath
+
+# IntelliJ
+out/
+../ojp_2/build/
+.gradle/
+.idea/
+settings.gradle
+Checked.txt
+.directory
+.settings/
+.classpath/
+.project/
+bin/
+
+# Gradle
+.idea/**/gradle.xml
+.idea/**/libraries
+
+# auto-import.
+ .idea/modules.xml
+ .idea/*.iml
+ .idea/modules
+ *.iml
+ *.ipr
+
+# Sensitive or high-churn files
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+
+
+# Generated files
+.idea/**/contentModel.xml
+
+
+# User-specific stuff
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
